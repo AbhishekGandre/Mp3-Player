@@ -6,7 +6,7 @@ mp3 player
 3.os module
 
 # for running 
-python Mp3 Player.py
+python Mp3 player.py
 
 # linux
-python3 Mp3 Player.py
+python3 Mp3 player.py
